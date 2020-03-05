@@ -1,6 +1,6 @@
 function myFunction() {
     // Comment for git hub test
-
+    console.log("commit test");
 
 }
 
