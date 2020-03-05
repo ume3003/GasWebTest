@@ -1,5 +1,8 @@
 function myFunction() {
-  
+    // Comment for git hub test
+    console.log("test");
+
+
 }
 
 function doGet(e)
